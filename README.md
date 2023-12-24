@@ -8,6 +8,7 @@ Game Objective:
 -complete as many orders as possible in order to win the game
 
 ---------How To Play-------------
+
 Up: Moves the designer up.
 Down: Moves the designer down.
 Left: Moves the store owner left.
